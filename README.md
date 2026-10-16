@@ -1,5 +1,4 @@
-# Gundam-Assault-Survive-100-English-Translation-Patch--PSP
-Gundam Assault Survive - English Fan Translation Patch By HOLOCATT
+# Gundam Assault Survive - English Fan Translation Patch By HOLOCATT
 =======================================================
 
 Game:     Gundam Assault Survive (Japan), PSP, ULJS-00281
