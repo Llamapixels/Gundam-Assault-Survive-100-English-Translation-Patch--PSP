@@ -10,7 +10,7 @@ Original ISO (before patching)
   MD5: 7406e7f7b8ad4136583431bd94da759b
 
 Patched ISO (after patching)
-  MD5: edc6d03629a0813c89a5b4940fcbe9ed
+  MD5: e809746ee894460717c904ac0a1b5cf7
 
 How to apply
 ------------
